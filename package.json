@@ -1,0 +1,17 @@
+{
+  "name": "background-render-c3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": null,
+  "scripts": {
+    "dev": "vite ."
+  },
+  "devDependencies": {
+    "vite": "^3.0.9"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.13",
+    "typescript": "^4.8.2"
+  }
+}
